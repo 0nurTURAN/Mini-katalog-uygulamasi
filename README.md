@@ -19,10 +19,14 @@ git clone [https://github.com/0nurTURAN/Mini-katalog-uygulamasi.git](https://git
 Proje dizinine gidin:
 
 cd Mini-katalog-uygulamasi
+
 Gerekli paketleri ve bağımlılıkları yükleyin:
 
 flutter pub get
+
 Uygulamayı bir emülatör veya gerçek cihaz üzerinde başlatın:
 
 flutter run
+
+
 Bu proje Onur TURAN tarafından geliştirilmiştir.
